@@ -36,4 +36,3 @@ def binary_calculator():
 
 if __name__ == "__main__":
     binary_calculator()
-1
